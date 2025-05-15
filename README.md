@@ -1,1 +1,2 @@
-# Design-and-Simulation-of-a-200-Watt-Solar-PV-Module-in-MATLAB-Simulink
+- The parameters of PV array block were configured to get the desired output.
+- The designed model displayed output parameters that closely aligns with practical PV modules.
